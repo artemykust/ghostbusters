@@ -34,7 +34,7 @@ body {
   line-height: 21px;
   color: #A5A5A5;
   margin-left: 34px;
-
+  outline: none;
 }
 .navigation {
   margin-right: 44px;
